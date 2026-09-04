@@ -19,4 +19,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Write your reflection in the file code/reflection.txt ---`
-It was a hard assignment but learned a couple of things. Will get easier with time.
+I learned how the different parts of the program work together, especially how bill.py contains the main functions while console.py and dashboard.py use those functions in different interfaces. The unit tests helped me check individual functions, while the integration tests showed me whether the different parts of the program worked together correctly. I struggled most with debugging console.py but using a breakpoint and looking at the variables helped me understand why the per-person amount was wrong. I also learned that even a small change, like using subtotal instead of total can cause a test to fail. Going forward, I want to get more comfortable using the debugger and understanding error messages so I can figure out problems more independently. 
